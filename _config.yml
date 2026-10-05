@@ -1,8 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Learn To Lingo
+title: Learn To Lingo
+description: Learn To Lingo teaches people how to learn a language along with story telling by breaking down language barriers.
 tags:
   - blog
   - template
